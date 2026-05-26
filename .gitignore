@@ -1,0 +1,26 @@
+# 构建文件
+build/
+iso/
+*.o
+*.elf
+*.bin
+*.iso
+*.img
+
+# 缓存文件
+.cache/
+*.log
+
+# 编译数据库
+compile_commands.json
+
+# IDE 文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
